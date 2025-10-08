@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Six Seven
+title: Home
 ---
 
 Welcome to **Six Seven** — a blog about memes, madness, and modern internet culture.

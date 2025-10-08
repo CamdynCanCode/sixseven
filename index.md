@@ -1,8 +1,8 @@
 ---
 layout: home
-title: sixseven.space
+title: Six Seven
 ---
 
-Welcome to **sixseven.space** — a blog about memes, madness, and modern internet culture.
+Welcome to **Six Seven** — a blog about memes, madness, and modern internet culture.
 
 Latest posts below.

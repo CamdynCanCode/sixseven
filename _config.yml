@@ -1,0 +1,11 @@
+title: "sixseven.space"
+description: "Internet culture, broken down."
+author: "Your Name"
+baseurl: ""
+url: "https://sixseven.space"
+theme: minima
+
+# Enable GitHub Pages remote theme support
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
